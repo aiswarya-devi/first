@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Name=Spring Suite Tool4
+Exec=/opt/sts-4.5.0.RELEASE/./SpringToolSuite4
+Icon=/opt/sts-4.5.0.RELEASE/icon.xpm
+Name[en_US]=Spring Tool Suite 4

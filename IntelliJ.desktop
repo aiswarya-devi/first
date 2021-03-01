@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Intellij
+Exec=/opt/idea-IC-203.6682.168/bin/./idea.sh
+Icon=/opt/idea-IC-203.6682.168/bin/idea.png
+GenericName[en_US.UTF-8]=Idea Intellij

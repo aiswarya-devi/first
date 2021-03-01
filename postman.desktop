@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Postman
+Comment=Postman
+Exec=/opt/Postman/./Postman
+Icon=/opt/Postman/app/resources/app/assets/icon.png
+Categories=Development
+
